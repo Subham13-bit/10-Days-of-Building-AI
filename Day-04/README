@@ -1,0 +1,54 @@
+
+# Student Performance Analysis 📊
+
+## Project Overview
+This project analyzes student academic performance using Python.
+It explores marks, attendance, and study hours to identify patterns
+and generate useful insights.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Features
+- Dataset inspection and analysis
+- Missing value and duplicate checking
+- Total and average marks calculation
+- Automatic grade assignment
+- Pass/Fail classification
+- Student ranking
+- Data visualization
+- CSV report generation
+
+## Visualizations
+1. Top 5 Students by Average Marks
+2. Distribution of Student Average Marks
+3. Student Performance Correlation Heatmap
+
+## Project Files
+- students.csv
+- student_performance_analysis.py
+- student_performance_report.csv
+- top_5_students.png
+- marks_distribution.png
+- correlation_heatmap.png
+
+## How to Run
+
+Install dependencies:
+
+pip install pandas numpy matplotlib seaborn
+
+Run:
+
+python student_performance_analysis.py
+
+## Learning Outcomes
+Practiced data analysis, data manipulation,
+statistical summaries, and visualization using Python.
+
+## Challenge
+Day 4 of my 10-Day AI Building Challenge.
